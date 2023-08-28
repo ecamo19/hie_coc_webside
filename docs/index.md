@@ -2,9 +2,11 @@
 
 # Kanban View
 
-![test](media/canvan_view.png)
+![test](media/kanvan_view.png)
 
 # Gantt Chart
 
 # Work Breakdown Structure
+
+![test](media/wbc_view.png)
 
